@@ -1,0 +1,15 @@
+p {
+    color:cadetblue;
+}
+
+h1 {
+    background-color: lightgoldenrodyellow;
+}
+
+h3 {
+    background-color: lightpink;
+}
+
+h1+h3 {
+    color: mediumblue;
+}
